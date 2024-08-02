@@ -1,4 +1,4 @@
-# Panel Admin MHenriquez L8x 📉
+ Panel Admin  en laravavel 
 
 App blog desarrollada con laravel 8, cuenta con las siguientes caracteristicas: 
 - Panel administrativo
